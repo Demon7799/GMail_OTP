@@ -24,15 +24,18 @@ Setup Credentials ==>
       Select Gmail API in Select API Box
       Click On Add or Remove Scopes and search GMAIL API
       
-and select the options -> https://mail.google.com/
- 				  ./auth/gmail.modify
-  				  /auth/gmail.compose
-                          /auth/gmail.readonly
-                          /auth/gmail.metadata
-                          /auth/gmail.insert
-                          /auth/gmail.send
-                          /auth/gmail.labels
-            after selecting all above options click on update
+and select the options ==>
+
+
+      https://mail.google.com/
+ 	./auth/gmail.modify
+  	/auth/gmail.compose
+      /auth/gmail.readonly
+      /auth/gmail.metadata
+      /auth/gmail.insert
+      /auth/gmail.send
+      /auth/gmail.labels
+      after selecting all above options click on update
 
 Now Click On Save And Continue
 
