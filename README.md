@@ -14,7 +14,7 @@ Create A New Project  ==>
 Now Select The Created Project and Search GMAIL API in Search Box
 and Select the Gmail API from Marketplace
 
-Click On Enable API (Wait For API to be Enable)
+Click On Enable API (Wait For API to Enable)
 
 Setup Credentials ==>
 
