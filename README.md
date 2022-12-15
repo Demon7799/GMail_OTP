@@ -49,6 +49,8 @@ Process Done For API SetUp
 
 go to ==> https://developers.google.com/gmail/api/quickstart/java
  and use the code
+ 
+ Put your Credentials.JSON File Under src/main/resource/Credentials(it's a normal folder)/Credentials.json
 
  **In Java ==> Set Application Name to Your Application Name
 
